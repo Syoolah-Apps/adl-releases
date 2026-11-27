@@ -37,6 +37,31 @@ If you had an earlier unsigned or debug build installed, Android will refuse
 to update it over this signed build because the signing keys differ. Back up
 anything you need, then remove the old build before installing this one.
 
+### Screenshots
+
+Captured from the tested build (same source as this signed alpha). Nearby shows
+an empty first-use radar — no example contacts are presented as real peers.
+
+**English**
+
+| Home | Chat |
+| --- | --- |
+| [![Adl home — English](screenshots/en/01-home.png)](screenshots/en/01-home.png) | [![Adl chat — English](screenshots/en/02-chat.png)](screenshots/en/02-chat.png) |
+
+| Nearby | Settings |
+| --- | --- |
+| [![Adl nearby radar — English](screenshots/en/03-nearby.png)](screenshots/en/03-nearby.png) | [![Adl settings — English](screenshots/en/04-settings.png)](screenshots/en/04-settings.png) |
+
+**العربية**
+
+| الرئيسية | المحادثة |
+| --- | --- |
+| [![Adl home — Arabic](screenshots/ar/01-home.png)](screenshots/ar/01-home.png) | [![Adl chat — Arabic](screenshots/ar/02-chat.png)](screenshots/ar/02-chat.png) |
+
+| الأجهزة القريبة | الإعدادات |
+| --- | --- |
+| [![Adl nearby radar — Arabic](screenshots/ar/03-nearby.png)](screenshots/ar/03-nearby.png) | [![Adl settings — Arabic](screenshots/ar/04-settings.png)](screenshots/ar/04-settings.png) |
+
 ### Status
 
 This is an **alpha**, distributed to testers. It is not a finished public
